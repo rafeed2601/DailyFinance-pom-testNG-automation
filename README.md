@@ -43,3 +43,7 @@ The following modules are automated
 
 ![allure02](https://github.com/user-attachments/assets/a4a5b1d2-52a4-4465-8286-6b57719919be)
 
+## Screen record for regression suite
+
+https://drive.google.com/file/d/1J1IOKkzY5aYfRKAjL0Qv6NV6VindkT8_/view?usp=sharing
+
