@@ -1,0 +1,6 @@
+itemName,quantity,amounts,purchaseDates,months,remarks
+item01,2,100,10/05/2024,October,"This is item01"
+item02,2,750,09/07/2024,September,"This is item02"
+item03,2,500,10/09/2024,October,"This is item03"
+item04,2,400,01/11/2024,January,"This is item04"
+item05,2,200,02/15/2024,February,"This is item05"

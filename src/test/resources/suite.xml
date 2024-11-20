@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<suite name="Daily Finance Automation">
+    <test name="user Registration">
+        <classes>
+            <class name="testRunner.RegistrationTestRunner"></class>
+        </classes>
+    </test>
+    <test name="user login">
+        <classes>
+            <class name="testRunner.LoginTestRunner"></class>
+        </classes>
+    </test>
+    <test name="update profile">
+        <classes>
+            <class name="testRunner.ProfilePageTestRunner"></class>
+        </classes>
+    </test>
+    <test name="add cost">
+        <classes>
+            <class name="testRunner.AddCostTestRunner"></class>
+        </classes>
+    </test>
+    <test name="search item">
+        <classes>
+            <class name="testRunner.SearchTestRunner"></class>
+        </classes>
+    </test>
+
+</suite>
