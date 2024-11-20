@@ -33,6 +33,11 @@ The following modules are automated
 
 `gradle clean test`
 
+## After automation write following commands on the terminal to view the allure report:
+
+`allure generate allure-results --clean -output`
+`allure serve allure-results`
+
 ## Allure Report
 ![allure01](https://github.com/user-attachments/assets/37b750a0-9042-4e69-9b36-e8f77da948c0)
 
